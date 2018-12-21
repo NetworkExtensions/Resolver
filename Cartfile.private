@@ -1,2 +1,2 @@
-github "NetworkExtensions/Quick"
-github "NetworkExtensions/Nimble"
+github "NetworkExtensions/Quick" "v1.3.2"
+github "NetworkExtensions/Nimble" "v7.3.1"
